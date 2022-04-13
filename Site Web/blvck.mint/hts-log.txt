@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 12 Apr 2022 16:58:41 at https://nft.blvck.icu/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "fr, en, *" https://nft.blvck.icu/ -O1 "C:\Site Web\blvck.mint" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:00:08	Error: 	"Not Found" (404) at link https://nft.blvck.icu/index_1.html (from https://nft.blvck.icu/)
+17:00:30	Error: 	"Not Found" (404) at link https://nft.blvck.icu/gtag/gtm.js (from https://nft.blvck.icu/gtag/js?id=G-JHXEN6CWF1)
+17:00:30	Error: 	"Not Found" (404) at link https://nft.blvck.icu/gtag/==c.mode)};sB[1]?a.metadata.euid_mode_enabled=b(a.getRemoteConfig(S.fc)):a.g=b(a.getRemoteConfig(S.fc))}},zB=function(a){},BB=function(a){},CB=function(a){var (from https://nft.blvck.icu/gtag/js?id=G-JHXEN6CWF1)
+17:00:30	Error: 	"Not Found" (404) at link https://nft.blvck.icu/gtag/=d)return (from https://nft.blvck.icu/gtag/js?id=G-JHXEN6CWF1)
+17:00:30	Error: 	"Not Found" (404) at link https://nft.blvck.icu/fonts/MBFMoonlander.woff2.html (from https://nft.blvck.icu/css (1)/cover.css)
+17:00:30	Error: 	"Not Found" (404) at link https://nft.blvck.icu/fonts/MBFMoonlander.woff (from https://nft.blvck.icu/css (1)/cover.css)
+17:00:30	Error: 	"Not Found" (404) at link https://nft.blvck.icu/images/bkg.jpg (from https://nft.blvck.icu/css (1)/cover.css)
+17:00:30	Error: 	"Not Found" (404) at link https://nft.blvck.icu/fonts/61dd45d43d2f9f125eb1c891_rectangleOne.svg (from https://nft.blvck.icu/css (1)/cover.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 49 seconds : 52 links scanned, 43 files written (2842884 bytes overall), no files updated [11201 bytes received at 102 bytes/sec], 2.3 requests per connection
+(8 errors, 0 warnings, 0 messages)
